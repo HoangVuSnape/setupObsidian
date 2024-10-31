@@ -1,0 +1,9 @@
+{
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "showLineNumber": false,
+  "showRibbon": false,
+  "alwaysUpdateLinks": true,
+  "spellcheck": true
+}
