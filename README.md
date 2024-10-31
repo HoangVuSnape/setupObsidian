@@ -2,7 +2,7 @@
 
 Vào mục setting và làm theo như hình ảnh 
 
-![](../../assets/images/settings.png) 
+![](./assets/images/settings.png) 
 ![](../../assets/images/AutomaticFilesTosave.png)
 # Templates
 
