@@ -30,4 +30,6 @@ Vào mục setting và làm theo như hình ảnh
 
 
 
+![](assets/images/test.png)
+
 
